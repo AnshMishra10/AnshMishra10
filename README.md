@@ -40,10 +40,4 @@
   <img src="https://profile-counter.glitch.me/AnshMishra10/count.svg?"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AnshMishra10/AnshMishra10/output/snake.svg" alt="Snake animation" />
-
-###
